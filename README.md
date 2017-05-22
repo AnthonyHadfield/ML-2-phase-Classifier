@@ -1,1 +1,4 @@
 # ML-2-phase-Classifier
+This is a Python code using PyCharm project.
+It is developing a machine learning 2-phase Classifier.
+ML-2-phaseClassifier.py includes coding of a training/lables dataset, and a test/lables dataset, viewable as a matplotlib plot.
